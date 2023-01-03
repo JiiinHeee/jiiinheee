@@ -49,7 +49,7 @@
 
 
 ![shooting_game_playing](https://user-images.githubusercontent.com/115795005/210367272-91386c06-f15f-4d7f-b1df-3f94cda80d74.png)
-3. 공격수가 플레이어 방향으로 날아오도록 기능 적용 <br>
+3. 공격수가 플레이어 방향으로 날아오도록 기능 적용. 'private int delay = 15;'의 함수가 쓰이며 값이 클수록 공격수의 움직임이 느려진다. <br>
 4. 공격수가 날아옴과 동시에 탄환이 공격을 할 수 있도록 구현 <br>
 5. 플레이어의 공격을 받을 시 녹색 게이지 바가 줄어든다 <br>
 <br>
