@@ -45,3 +45,4 @@
 ![shooting_game_playing2](https://user-images.githubusercontent.com/115795005/210369043-aed10cf9-2c14-4482-944c-6519f82ce19b.png)
 
 ![game_end](https://user-images.githubusercontent.com/115795005/210369091-467ffa41-6c18-472a-b0b2-a5cb7bc4e525.png)
+10) 게이지 바가 닳았을 때 'Press R to restart'라는 문구가 뜨며, 'R'키를 눌렀을 시 
