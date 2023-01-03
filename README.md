@@ -42,6 +42,6 @@
 
 ![shooting_game_playing](https://user-images.githubusercontent.com/115795005/210367272-91386c06-f15f-4d7f-b1df-3f94cda80d74.png)
 
-![슈팅게임_게임중2](https://user-images.githubusercontent.com/115795005/209132138-8e0a0e99-af7f-4b28-98f1-8809c8da7bf1.PNG)
+![shooting_game_playing2](https://user-images.githubusercontent.com/115795005/210369043-aed10cf9-2c14-4482-944c-6519f82ce19b.png)
 
-![슈팅게임_다시시작](https://user-images.githubusercontent.com/115795005/210123531-6c15f463-235c-439b-a569-3c4bed743e3f.PNG)
+![game_end](https://user-images.githubusercontent.com/115795005/210369091-467ffa41-6c18-472a-b0b2-a5cb7bc4e525.png)
