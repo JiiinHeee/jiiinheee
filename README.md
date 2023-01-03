@@ -42,7 +42,7 @@
     
 
 ![shooting_game_explain](https://user-images.githubusercontent.com/115795005/210366111-97206da6-3ed4-482e-8a1a-bbedbafa54ce.png)
-2. 게임설명창이 3초동안 유지 될 수 있도록 구현
+2. 게임설명창이 3초동안 유지 된 후 게임이 시작 되도록 구현하였다
 <br>
 <br>
 
@@ -50,14 +50,14 @@
 
 ![shooting_game_playing](https://user-images.githubusercontent.com/115795005/210367272-91386c06-f15f-4d7f-b1df-3f94cda80d74.png)
 3. 공격수가 플레이어 방향으로 날아오도록 기능 적용. 'private int delay = 15;'의 함수가 쓰이며 값이 클수록 공격수의 움직임이 느려진다. <br>
-4. 공격수가 날아옴과 동시에 탄환이 공격을 할 수 있도록 구현 <br>
+4. 공격수가 날아옴과 동시에 탄환이 공격을 할 수 있도록 구현하였다 <br>
 5. 플레이어의 공격을 받을 시 녹색 게이지 바가 줄어든다 <br>
 <br>
 
 
 
 ![shooting_game_playing2](https://user-images.githubusercontent.com/115795005/210369043-aed10cf9-2c14-4482-944c-6519f82ce19b.png)
-6. 플레이어는 키보드(a-왼쪽, d-오른쪽, s-아래, w-위)를 이용하여 움직임이 가능하도록 구현 <br>
+6. 플레이어는 키보드(a-왼쪽, d-오른쪽, s-아래, w-위)를 이용하여 움직임이 가능하도록 구현하였다 <br>
 7. space바를 누를 시 장애물을 공격할 수 있는 무기 구현 <br>
 8. 장애물 처치시 1000점씩 점수를 얻을 수 있다 <br>
 9. 공격수에게 공격을 받았을 때 녹색 게이지 바가 줄어든다 <br>
