@@ -33,14 +33,17 @@
 - 참고자료 탐색
 - 보고서 작성
 <br>
+<br>
 
 ![shooting_game_git](https://user-images.githubusercontent.com/115795005/210363465-f6d70f08-dc41-4e37-b75a-5f0780f97e90.png)
 1. Enter키를 누르면 게임 설명단계로 이동
+<br>
 <br>
     
 
 ![shooting_game_explain](https://user-images.githubusercontent.com/115795005/210366111-97206da6-3ed4-482e-8a1a-bbedbafa54ce.png)
 2. 게임설명창이 3초동안 유지 될 수 있도록 구현
+<br>
 <br>
 
 
