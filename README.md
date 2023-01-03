@@ -33,7 +33,8 @@
 - 보고서 작성
 
 ![shooting_game_git](https://user-images.githubusercontent.com/115795005/210363465-f6d70f08-dc41-4e37-b75a-5f0780f97e90.png)
-### 1) Enter키를 누르면 게임 설명단계로 이동
+ 1) Enter키를 누르면 게임 설명단계로 이동
+ 
 
 ![슈팅게임_게임설명](https://user-images.githubusercontent.com/115795005/210123481-04226384-e669-4394-9cb6-9ba1040dadb2.PNG)
 
