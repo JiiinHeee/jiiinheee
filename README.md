@@ -66,3 +66,4 @@
 
 ![game_end](https://user-images.githubusercontent.com/115795005/210369091-467ffa41-6c18-472a-b0b2-a5cb7bc4e525.png)
 10) 게이지 바가 모두 닳았을 때 'Press R to restart'라는 문구가 뜨며, 'R'키를 눌렀을 시 게임 재시작 <br>
+'g.drawString("Press R to restart", 300, 450);'의 함수가 주기능을 한다. 
