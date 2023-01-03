@@ -40,7 +40,7 @@
 ![shooting_game_explain](https://user-images.githubusercontent.com/115795005/210366111-97206da6-3ed4-482e-8a1a-bbedbafa54ce.png)
 2) 게임설명창이 3초동안 유지 될 수 있도록 구현
 
-![슈팅게임_게임중](https://user-images.githubusercontent.com/115795005/210123506-57be2e6b-b760-4506-99ef-d6be5088da5d.PNG)
+![shooting_game_playing](https://user-images.githubusercontent.com/115795005/210367272-91386c06-f15f-4d7f-b1df-3f94cda80d74.png)
 
 ![슈팅게임_게임중2](https://user-images.githubusercontent.com/115795005/209132138-8e0a0e99-af7f-4b28-98f1-8809c8da7bf1.PNG)
 
