@@ -32,13 +32,16 @@
 - 플레이어의 아이템 구현
 - 참고자료 탐색
 - 보고서 작성
+<br>
 
 ![shooting_game_git](https://user-images.githubusercontent.com/115795005/210363465-f6d70f08-dc41-4e37-b75a-5f0780f97e90.png)
 1. Enter키를 누르면 게임 설명단계로 이동
+<br>
     
 
 ![shooting_game_explain](https://user-images.githubusercontent.com/115795005/210366111-97206da6-3ed4-482e-8a1a-bbedbafa54ce.png)
 2. 게임설명창이 3초동안 유지 될 수 있도록 구현
+<br>
 
 
 
@@ -46,6 +49,7 @@
 3. 적이 날아오도록 기능 적용 <br>
 4. 적이 날아옴과 동시에 공격 장애물이 공격을 주도 할 수 있도록 구현 <br>
 5. 플레이어의 공격을 받을 시 녹색 게이지 바가 줄어듦 <br>
+<br>
 
 
 
