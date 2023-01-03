@@ -18,6 +18,7 @@
 #### 비기능적
 - 사용자의 오류를 최소화 하기 위해 경고창 및 뒤로가기를 제공
 - 팝업창 또는 웹사이트의 형태로 제작
+- 배경음악 및 효과음 적용
 
 
 
@@ -36,7 +37,7 @@
 1) Enter키를 누르면 게임 설명단계로 이동
     
 
-![shooting_game_explain](https://user-images.githubusercontent.com/115795005/210364472-380bfe92-8ff0-4538-8ea2-401aaa9f3cf2.png)
+![shooting_game_explain](https://user-images.githubusercontent.com/115795005/210366111-97206da6-3ed4-482e-8a1a-bbedbafa54ce.png)
 2) 게임설명창이 3초동안 유지 될 수 있도록 구현
 
 ![슈팅게임_게임중](https://user-images.githubusercontent.com/115795005/210123506-57be2e6b-b760-4506-99ef-d6be5088da5d.PNG)
